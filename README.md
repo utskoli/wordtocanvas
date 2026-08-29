@@ -26,7 +26,6 @@ Free converter tools or help formatting a specific question type like multiple-c
 
 - [1] [https://utility.lsts.edu.vn](https://utility.lsts.edu.vn/convert-quiz)
 - [2] [https://community.instructure.com](https://community.instructure.com/en/discussion/629460/effortless-quiz-creation-free-tool-by-lawrence-s-ting-school-to-enhance-canvas-lms-by-converting-d)
-- [3] [https://www.youtube.com](https://www.youtube.com/watch?v=CCfq_qDc9RI)
 - [5] [https://digitaliser.getmarked.ai](https://digitaliser.getmarked.ai/blog/import-word-into-canvas-question-bank/)
 - [6] [https://www.youtube.com](https://www.youtube.com/watch?v=PzDu5A7h-J8&t=687)
 - [7] [https://kb.uwec.edu](https://kb.uwec.edu/articles/quiz-import-word-to-copilot-to-canvas)
