@@ -11,7 +11,7 @@
 
 ## 2. Convert to QTI Format
 
-* Use an online formatting tool like the [Cardinal Quiz Converter](https://qti.uiw.edu/) or the [LSTS Word to QTI Converter](https://utility.lsts.edu.vn/convert-quiz).
+* Use an online formatting tool like the [LSTS Word to QTI Converter](https://utility.lsts.edu.vn/convert-quiz).
 * Upload your prepared file to the conversion tool.
 * Check the preview or error validator for mistakes, then download the generated QTI .zip file. [1, 4, 6] 
 
@@ -27,7 +27,6 @@ Free converter tools or help formatting a specific question type like multiple-c
 - [1] [https://utility.lsts.edu.vn](https://utility.lsts.edu.vn/convert-quiz)
 - [2] [https://community.instructure.com](https://community.instructure.com/en/discussion/629460/effortless-quiz-creation-free-tool-by-lawrence-s-ting-school-to-enhance-canvas-lms-by-converting-d)
 - [3] [https://www.youtube.com](https://www.youtube.com/watch?v=CCfq_qDc9RI)
-- [4] https://qti.uiw.edu
 - [5] [https://digitaliser.getmarked.ai](https://digitaliser.getmarked.ai/blog/import-word-into-canvas-question-bank/)
 - [6] [https://www.youtube.com](https://www.youtube.com/watch?v=PzDu5A7h-J8&t=687)
 - [7] [https://kb.uwec.edu](https://kb.uwec.edu/articles/quiz-import-word-to-copilot-to-canvas)
@@ -36,22 +35,13 @@ Free converter tools or help formatting a specific question type like multiple-c
 
 ---
 
-## Free converter tools 
-
-Several excellent, free online web tools can instantly convert your Word document (.docx or .txt) into a Canvas-compatible QTI .zip package.
-## 1. Cardinal Quiz Converter (University of the Incarnate Word)
-
-* What it does: A highly robust university-hosted tool that directly accepts .docx, .txt, .md, and .csv files.
-* Key feature: Automatically checks for syntax and validates your formatting for errors before generating the download.
-* Link: Use the [Cardinal Quiz Converter](https://qti.uiw.edu/). [1, 2] 
-  
+## Free converter tools   
 
 ## 2. LSTS Word to Canvas Quiz Converter
 
 * What it does: Built specifically to help educators instantly bridge the gap between Word and Canvas LMS.
 * Key feature: Allows you to embed images, mathematical equations, and tables directly into your Word document, preserving them in the final QTI package.
 * Link: Convert files using the [LSTS Utility Tool](https://utility.lsts.edu.vn/convert-quiz). [3, 4] 
-* 
 
 ## 3. NYIT / SDSU Canvas Exam Converters
 
@@ -59,30 +49,24 @@ Several excellent, free online web tools can instantly convert your Word documen
 * Key feature: Works best if you save your Word document as a plain text (.txt) file first. You paste your text into a browser window, click convert, and receive the .zip. [5, 6] 
 * Pro-tip: You can paste the NYIT formatting rules into an AI assistant, provide your raw test, and ask it to format the text perfectly before pasting it into the tool. [6] 
   
-
 ## 4. GETMARKED Digitaliser (Free Tier)
-
 
 * What it does: An intelligent AI-assisted quiz converter that attempts to infer your questions without strict formatting rules.
 * Key feature: Supports complex layouts, sub-questions, and open-ended text questions.
 * Link: Get started via the [GETMARKED Digitaliser](https://digitaliser.getmarked.ai/convert-word-into-qti/). [7] 
   
-
 ------------------------------
 ## ⚠️ Crucial Step After Importing to Canvas
 When you upload the QTI .zip file into Canvas (Settings > Import Course Content > QTI .zip file), Canvas initially builds it as a Classic Quiz. [4, 6, 8] 
 If your institution uses Canvas New Quizzes, locate the imported quiz on your "Quizzes" page, click the three vertical dots on the right, and select Migrate to update it to the modern format. [6] 
 Would you like me to show you the exact syntax text pattern (like where to place asterisks or exclamation points) required by one of these specific tools so your upload succeeds on the first try?
 
-- [1] https://qti.uiw.edu
-- [2] https://qti.uiw.edu
 - [3] [https://community.instructure.com](https://community.instructure.com/en/discussion/629460/effortless-quiz-creation-free-tool-by-lawrence-s-ting-school-to-enhance-canvas-lms-by-converting-d)
 - [4] [https://utility.lsts.edu.vn](https://utility.lsts.edu.vn/convert-quiz)
 - [5] [https://www.youtube.com](https://www.youtube.com/watch?v=hob5ccxh8bI)
 - [6] [https://www.youtube.com](https://www.youtube.com/watch?v=CCfq_qDc9RI&t=574)
 - [7] [https://digitaliser.getmarked.ai](https://digitaliser.getmarked.ai/convert-word-into-qti/)
 - [8] [https://kb.uwec.edu](https://kb.uwec.edu/articles/quiz-import-word-to-copilot-to-canvas)
-
 
 ---
 
