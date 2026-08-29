@@ -1,6 +1,6 @@
 # Word to Canvas
 
-> You can convert a Word document into a Canvas-compatible QTI .zip file by formatting your text, running it through an online quiz converter, and importing the package into your course. [1] 
+> You can convert a Word document into a Canvas-compatible QTI .zip file by formatting your text, running it through an online quiz converter, and importing the package into your course. 
 
 ## 1. Prepare Your Word Document
 
