@@ -23,8 +23,7 @@
 * Go to Settings and click Import Course Content (or select Import Existing Content from the homepage).
 * Choose QTI .zip file from the Content Type drop-down menu.
 * Upload your downloaded .zip file and click Import.
-* 
-- [https://community.instructure.com](https://community.instructure.com/en/discussion/629460/effortless-quiz-creation-free-tool-by-lawrence-s-ting-school-to-enhance-canvas-lms-by-converting-d)
+* [https://community.instructure.com](https://community.instructure.com/en/discussion/629460/effortless-quiz-creation-free-tool-by-lawrence-s-ting-school-to-enhance-canvas-lms-by-converting-d)
 
 ---
 
